@@ -1,1 +1,1 @@
-feature coming soon
+data requrements: email, firstName, lastName profilePic]
